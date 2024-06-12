@@ -1,5 +1,7 @@
 # TimeWizeApp_opsc
 
+<h1>YouTube Link:</h1> <li>https://youtu.be/KK85y2Rud1s</li>
+
 <h1>cloning the application</h1>
 <li>get acess to our repository link</li></li>
 <li>copy the link in our repository </li></li>
@@ -91,3 +93,4 @@
 ![rewards](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/4c1a6314-175a-4715-a9ef-3fba516ddf35)
 <li>in the rewards page, this is where the user can earn badges when they complete a certain amount of tasks. When they complete each task thier progress bar will go up and once it reaches 100 they will earn the badge</li>
 <li>Users can work to earn many badges at the same time</li>
+
