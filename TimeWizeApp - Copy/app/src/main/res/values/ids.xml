@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dashboard" type="id" />
+    <item name="goals" type="id" />
+    <item name="viewTimesheets" type="id" />
+    <item name="catagoryHours" type="id" />
+    <item name="barChartActivity" type="id" />
+    <item name="pomodoroTimer" type="id" />
+    <item name="badgesActivity" type="id" />
+    <item name="exit" type="id" />
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboard" android:icon="@android:drawable/ic_menu_send" android:title="Dashboard"/>
+    <item android:id="@+id/goals" android:icon="@android:drawable/ic_menu_send" android:title="Goals"/>
+    <item android:id="@+id/viewTimesheets" android:icon="@android:drawable/ic_menu_send" android:title="View Timesheets"/>
+    <item android:id="@+id/catagoryHours" android:icon="@android:drawable/ic_menu_send" android:title="View Catagory Hours"/>
+    <item android:id="@+id/barchart" android:icon="@android:drawable/ic_menu_send" android:title="View Bar Chart"/>
+    <item android:id="@+id/pomodoroTimer" android:icon="@android:drawable/ic_menu_send" android:title="View Pomodoro Timer"/>
+    <item android:id="@+id/badge" android:icon="@android:drawable/ic_menu_send" android:title="View Badges"/>
+    <item android:id="@+id/exit" android:title="Exit"/>
+</menu>

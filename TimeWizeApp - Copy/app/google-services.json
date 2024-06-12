@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092783167222",
+    "project_id": "timewizeapp-24599",
+    "storage_bucket": "timewizeapp-24599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092783167222:android:a42b3ed2d473a3227d7ed7",
+        "android_client_info": {
+          "package_name": "com.opsc7311.timewizeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4etbJ4_UgQQ8lWqqb79HNCulTGW3ieJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
